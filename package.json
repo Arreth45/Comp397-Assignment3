@@ -1,7 +1,7 @@
 {
-    "name": "comp397-w2016-mailpilotdemo",
+    "name": "comp397-w2016-assignment3",
     "version": "1.0.0",
-    "description": "COMP397-W2016-MailPilotDemo for Centennial College",
+    "description": "COMP397-W2016-Assignment3 for Centennial College",
     "main": "game.js",
     "dependencies": {
         "typescript": "^1.8.7"
@@ -22,12 +22,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/CentennialCollege/COMP397-W2016-MailPilotDemo.git"
+        "url": "git+https://github.com/Arreth45/Comp397-Assignment3.git"
     },
-    "author": "Tom Tsiliopoulos",
+    "author": "Jake Parnell",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/CentennialCollege/COMP397-W2016-MailPilotDemo/issues"
+        "url": "https://github.com/Arreth45/Comp397-Assignment3/issues"
     },
-    "homepage": "https://github.com/CentennialCollege/COMP397-W2016-MailPilotDemo#readme"
+    "homepage": "https://github.com/Arreth45/Comp397-Assignment3#readme"
 }

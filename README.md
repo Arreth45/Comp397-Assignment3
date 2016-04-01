@@ -1,3 +1,3 @@
-# COMP397-W2016-MailPilotDemo Project
+# COMP397-W2016-Assignment 3
 
-COMP397-W2016-MailPilotDemo Project for Web Game Programming @ Centennial
+COMP397-W2016-Assignment 3 SideScroller for Web Game Programming @ Centennial
